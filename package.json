@@ -1,0 +1,22 @@
+{
+  "name": "fyp-data",
+  "version": "1.0.0",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexwwwwww/FYP-data.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexwwwwww/FYP-data/issues"
+  },
+  "homepage": "https://github.com/Alexwwwwww/FYP-data#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
